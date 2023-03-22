@@ -1,5 +1,5 @@
 # my-first-website
-Where the magic happens
+* Where the magic happens *
 
 As I've been wanting to learn how to create a website with three.js for a year now but I know absolutely nothing about hosting and all that crap about servers - I'm going to use github pages to host my very first website.
 
