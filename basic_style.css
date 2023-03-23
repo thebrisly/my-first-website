@@ -1,0 +1,16 @@
+body {
+	background-color: pink;
+	text-align: center;
+	margin-top: 30vh;
+  }
+  h1 {
+	color: black;
+	font-size: 60px;
+  }
+  h2 {
+	color : black;
+	font-size: 42px;
+  }
+  h3 {
+	color: white;
+  }
