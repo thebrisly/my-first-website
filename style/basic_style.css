@@ -1,4 +1,4 @@
-body {
+  body {
 	background-color: pink;
 	text-align: center;
 	margin-top: 30vh;
@@ -13,4 +13,32 @@ body {
   }
   h3 {
 	color: white;
+  }
+  table, th, tr, td{
+	width: 50%;
+	border: black;
+	border: 1px solid;
+	font-size: 20px;
+	color: black;
+	font-family: Arial, sans-serif;
+	align-content: center;
+  }
+  td{
+	align-content: first baseline;
+  }
+  .center {
+	margin-left: auto;
+	margin-right: auto;
+  }
+  .sport{
+	background-color: bisque;
+  }
+  .introduction, h3{
+	font-size: 30px;
+	color: purple;
+  }
+input{
+	color: purple;
+	padding: 10px;
+	width: 30%;
   }
