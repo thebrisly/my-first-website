@@ -24,5 +24,5 @@ let's try
 
 - Information about the web page, like the title, belongs within the "head" of the page.
 
-- Anchor tags (<a>) are used to link to internal pages, external pages or content on the same page.
+- Anchor tags ("a") are used to link to internal pages, external pages or content on the same page.
 - Comments are written in HTML using the following syntax: "!-- comment --"
