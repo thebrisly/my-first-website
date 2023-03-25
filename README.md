@@ -35,7 +35,8 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
 - You just need to know everything you can do with HTML to create a site easily. Here are some elements that you can create in a few clicks (and then rearrange in a nice design)
   - The titles: "h1", "h2", "h3", "h4"...
   - Images: "img"
-  - Videos
+  - Videos: "video"
+  - Divide your code in little part swith "div"
   - Paragraphs: "p"
   - Tables: "table", "thead" & "th" (table head), "tbody", "tr" (table rows), "td" (table data), "tfoot"
   - Links: "a"
