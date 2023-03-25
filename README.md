@@ -22,6 +22,8 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
 
 <h2> HTML </h2>
 
+<h3> What I've learned so far </h3>
+
 - There are several "versions" of HTML. That's why at the beginning of each .html file you have to define which "version" you are using so that the computer interprets it in the right way: !DOCTYPE html 
 
 - Then any file must start and end with the html /html tag so we know which part of the code is html.
