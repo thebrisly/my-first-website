@@ -12,4 +12,12 @@ let's try
 
 <h1> First steps into website coding </h1>
 
+<p> After a minute of research, all the base of a website is made thanks to an HTML file. Then a CSS file to make it more beautiful. </p>
+
 <p> HTML and CSS are very related, but they don't work in the same way. HTML is the skeleton of a website and CSS is the skin, the hair and everything else that is pretty (even if a skeleton is also very beautiful). </p>
+
+<h2> HTML </h2>
+
+- There are several "versions" of HTML. That's why at the beginning of each .html file you have to define which "version" you are using so that the computer interprets it in the right way. -> <!DOCTYPE html>
+
+- Then any file must start and end with the <html> </html> tag so we know which part of the code is html.
