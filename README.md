@@ -41,3 +41,6 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
   - Tables: "table", "thead" & "th" (table head), "tbody", "tr" (table rows), "td" (table data), "tfoot"
   - Links: "a"
   - Ordered or disordered lists: "ol", "ul", "li"
+  - Forms to collect some data: "form", "input" (to take the input of the user), "label" (to indicate which data they need to enter)
+    - For sensitive content, it exists a type="password" attribute for "input"
+    - You can create a lot of different inputs: checkbox, text, numbers, ranges, radio (only one input allowed), a dropdown list, a datalist (so the user can write smthg and the list will propose the most similar answer), a textarea element and obviously a submit button
