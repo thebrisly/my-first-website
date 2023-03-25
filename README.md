@@ -21,3 +21,8 @@ let's try
 - There are several "versions" of HTML. That's why at the beginning of each .html file you have to define which "version" you are using so that the computer interprets it in the right way: !DOCTYPE html 
 
 - Then any file must start and end with the html /html tag so we know which part of the code is html.
+
+- Information about the web page, like the title, belongs within the "head" of the page.
+
+- Anchor tags (<a>) are used to link to internal pages, external pages or content on the same page.
+- Comments are written in HTML using the following syntax: "!-- comment --"
