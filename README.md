@@ -7,7 +7,9 @@ You can follow, if you want, the progress of my first website. I will also put a
 
 I will try to understand what is html, css javascript and try to code something minimalist with a library that fascinates me: three.js
 
-let's try
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/84352348/227739002-bdf966bc-6809-4066-9e69-d09c6e0ea12d.png">
+
+Not so pretty for now, I know. But I have some great ideas stuck in my head
 
 
 <h1> First steps into website coding </h1>
