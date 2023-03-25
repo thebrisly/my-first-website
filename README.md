@@ -37,6 +37,6 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
   - Images: "img"
   - Videos
   - Paragraphs: "p"
-  - Tables: "table", "thead", "tbody"
+  - Tables: "table", "thead" & "th" (table head), "tbody", "tr" (table rows), "td" (table data), 
   - Links: "a"
   - Ordered or disordered lists: "ol", "ul", "li"
