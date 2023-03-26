@@ -45,3 +45,5 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
     - For sensitive content, it exists a type="password" attribute for "input"
     - You can create a lot of different inputs: checkbox, text, numbers, ranges, radio (only one input allowed), a dropdown list, a datalist (so the user can write smthg and the list will propose the most similar answer), a textarea element and obviously a submit button
     - You can add a client-side validation to the form (with required, max, min, maxlength & minlength)
+  - Audios
+- A good website has a header, a footer, a navigation section, sections (elements in a document), articles (+ asides, figures, figcaption) and a main content.
