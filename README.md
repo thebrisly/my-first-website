@@ -47,3 +47,11 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
     - You can add a client-side validation to the form (with required, max, min, maxlength & minlength)
   - Audios
 - A good website has a header, a footer, a navigation section, sections (elements in a document), articles (+ asides, figures, figcaption) and a main content.
+
+<h2> CSS <h2>
+
+<h3> What I've learned so far </h3>
+
+You can style any website using HTML. 
+- We can specify global styles (e.g. make all h1 titles have the same characteristic), or specify each block of our website using classes (or IDs).
+- You can also style attributes (images, links, videos, etc.): a[href*="name of variable"] { }
