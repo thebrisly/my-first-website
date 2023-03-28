@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title> Travel Page </title>
-	</head>
+  <head>
+    <title>Travel</title>
+    <link rel="stylesheet" type="text/css" href="../style/basic_style.css">
+  </head>
+  <body id="world">
+    <h1>Travel</h1>
+    <div id="map-container">
+      <img id="map" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Simple_world_map.svg" usemap="#world-map">
+      <map name="world-map">
+        <area id="france" href="#" alt="France" title="France">
+        <area id="usa" href="#" alt="USA" title="USA">
+        <!-- Ajouter des balises "area" pour chaque pays que vous souhaitez inclure -->
+      </map>
+    </div>
+    <div id="visited-container">
+      <h2>Visited Countries</h2>
+      <p id="visited-count">23</p>
+    </div>
+    <script src="../javascript/travel.js"></script>
+  </body>
 </html>

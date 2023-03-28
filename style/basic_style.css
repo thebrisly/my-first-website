@@ -1,7 +1,6 @@
-  body {
+  body, html {
 	background-color: pink;
 	text-align: center;
-	margin-top: 30vh;
   }
   h1 {
 	color: black;
@@ -40,5 +39,30 @@
 input{
 	color: purple;
 	padding: 10px;
-	width: 30%;
   }
+  header {
+	padding: 10px;
+	background: white;
+	color: white;
+	font-size: 30px;
+  }
+  #map-container {
+	position: relative;
+  }
+  
+  #map {
+	width: 80%;
+	height: auto;
+  }
+  
+  .area {
+	position: absolute;
+	cursor: pointer;
+  }
+
+  #world{
+	background-color: rgb(174, 186, 190);
+  }
+  
+  /* Ajouter des sélecteurs CSS pour chaque pays que vous avez inclus */
+  
