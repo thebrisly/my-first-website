@@ -54,4 +54,6 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
 
 You can style any website using HTML. 
 - We can specify global styles (e.g. make all h1 titles have the same characteristic), or specify each block of our website using classes (or IDs).
+  -  Difference between classes and IDs: (to complete)
 - You can also style attributes (images, links, videos, etc.): a[href*="name of variable"] { }
+- If you want to style elements just after a certain action, you can use pseudo-classes. For example, we can say that we want our paragraphs to turn purple when we hover over them. We just need to write p:hover and the desired color.
