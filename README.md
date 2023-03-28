@@ -48,7 +48,7 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
   - Audios
 - A good website has a header, a footer, a navigation section, sections (elements in a document), articles (+ asides, figures, figcaption) and a main content.
 
-<h2> CSS <h2>
+<h2> CSS </h2>
 
 <h3> What I've learned so far </h3>
 
