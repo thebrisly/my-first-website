@@ -54,6 +54,13 @@ OK. I admit. Not so pretty for now, I know. But I have some great ideas stuck in
 
 You can style any website using HTML. 
 - We can specify global styles (e.g. make all h1 titles have the same characteristic), or specify each block of our website using classes (or IDs).
-  -  Difference between classes and IDs: (to complete)
+  -  Difference between classes and IDs:
+    - CSS classes are meant to be reused over many elements.
+    - ID is meant to style only one element.
 - You can also style attributes (images, links, videos, etc.): a[href*="name of variable"] { }
 - If you want to style elements just after a certain action, you can use pseudo-classes. For example, we can say that we want our paragraphs to turn purple when we hover over them. We just need to write p:hover and the desired color.
+- Style elements while using the lowest degree of specificity: Type > Classes > IDs
+  - If you use these 3 specificators, the style will only take the style of ID while it has the biggest degree of  specificity.
+- Chaining is the combination of multiple selectors: for example, you can style all h2 that have a certain class.
+  - You can have descendant combinators: You can select elements that are nested within other HTML elements (descendants). Example: .main-list li -> will style all the elements of the list that are defined by the class "main-list". -> /!\ by doing this your increase the specificity /!\
+- It’s possible to add CSS styles to multiple CSS selectors all at once: "h1, h5, li {font-family: Arial;}" will style these 3 types with the same font.
