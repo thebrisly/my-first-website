@@ -64,3 +64,10 @@ You can style any website using HTML.
 - Chaining is the combination of multiple selectors: for example, you can style all h2 that have a certain class.
   - You can have descendant combinators: You can select elements that are nested within other HTML elements (descendants). Example: .main-list li -> will style all the elements of the list that are defined by the class "main-list". -> /!\ by doing this your increase the specificity /!\
 - It’s possible to add CSS styles to multiple CSS selectors all at once: "h1, h5, li {font-family: Arial;}" will style these 3 types with the same font.
+
+<h4> Visual Rules </h4>
+
+- Fonts Rules:
+  - The font specified must be installed on the user’s computer or downloaded with the site.
+  - Web safe fonts are a group of fonts supported across most browsers and operating systems.
+  - Some things taht you can change: font-family, font-size, font-weight, text-align...
