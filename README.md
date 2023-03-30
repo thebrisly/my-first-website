@@ -70,4 +70,5 @@ You can style any website using HTML.
 - Fonts Rules:
   - The font specified must be installed on the user’s computer or downloaded with the site.
   - Web safe fonts are a group of fonts supported across most browsers and operating systems.
-  - Some things taht you can change: font-family, font-size, font-weight, text-align...
+  - Some things taht you can change: font-family, font-size, font-weight, text-align, foreground and background color, opacity, background-image and many more.
+    - You can use the attribute "!important" to override any style. It should not be used but in some cases u can
